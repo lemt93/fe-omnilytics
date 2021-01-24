@@ -13,3 +13,7 @@ npm run dev
 yarn install
 yarn run dev
 ```
+Express will be served at default port `8080`
+```
+http://localhost:8080
+```
