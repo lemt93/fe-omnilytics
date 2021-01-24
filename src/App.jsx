@@ -17,6 +17,7 @@ export default class App extends React.Component {
       return
     }
     this.setState({
+      reports: [],
       generatingData: fetch('http://localhost:4000/generate', {
         method: 'POST'
       })
