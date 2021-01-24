@@ -1,0 +1,29 @@
+{
+  "name": "fe-omnilytics",
+  "version": "1.0.0",
+  "description": "Code challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemt93/fe-omnilytics.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemt93/fe-omnilytics/issues"
+  },
+  "homepage": "https://github.com/lemt93/fe-omnilytics#readme",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "dependencies": {
+    "mobx": "^6.0.4",
+    "mobx-react": "^7.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
